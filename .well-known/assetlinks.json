@@ -1,8 +1,13 @@
-[{
-  "relation": ["delegate_permission/common.handle_all_urls"],
-  "target": {
-    "namespace": "android_app",
-    "package_name": "io.github.ramghh.twa",
-    "sha256_cert_fingerprints": ["F5:1D:8E:8E:DC:22:07:5E:6A:72:D2:0C:D0:95:4A:C7:C8:E9:FF:B8:A7:DE:45:53:80:38:0C:7B:E6:62:A3:81"]
+[
+  {
+    "relation": ["delegate_permission/common.handle_all_urls"],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "io.github.ramghh.twa",
+      "sha256_cert_fingerprints": [
+        "F5:1D:8E:8E:DC:22:07:5E:6A:72:D2:0C:D0:95:4A:C7:C8:E9:FF:B8:A7:DE:45:53:80:38:0C:7B:E6:62:A3:81",
+        "A4:94:41:1C:D4:B4:99:A5:D8:E8:77:42:C2:81:D9:5D:65:15:DD:24:04:EA:9F:34:1A:52:47:0D:F6:9E:3A:F0"
+      ]
+    }
   }
-}]
+]
